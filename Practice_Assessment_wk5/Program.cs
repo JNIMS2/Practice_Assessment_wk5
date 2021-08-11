@@ -7,6 +7,7 @@ namespace Practice_Assessment_wk5
         static void Main(string[] args)
         {
             Console.WriteLine("test it out");
+            Console.WriteLine("and another test");
         }
     }
 }
